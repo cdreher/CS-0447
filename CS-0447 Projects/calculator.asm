@@ -1,4 +1,4 @@
-//Collin Dreher - Project 1
+//Collin Dreher - Project 1 (Calculator)
 .text
 
 addi $s0, $zero, 0			#use this register for the result
